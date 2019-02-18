@@ -1,0 +1,9 @@
+F:\DOT NET BATCH\DataBase\DataBase\bin\Debug\DataBase.exe.config
+F:\DOT NET BATCH\DataBase\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+F:\DOT NET BATCH\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+F:\DOT NET BATCH\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+F:\DOT NET BATCH\DataBase\DataBase\bin\Debug\DataBase.exe
+F:\DOT NET BATCH\DataBase\DataBase\bin\Debug\DataBase.pdb
+F:\DOT NET BATCH\DataBase\DataBase\obj\Debug\DataBase.exe
+F:\DOT NET BATCH\DataBase\DataBase\obj\Debug\DataBase.pdb
+F:\DOT NET BATCH\DataBase\DataBase\obj\Debug\DataBase.UpdateButton.resources
